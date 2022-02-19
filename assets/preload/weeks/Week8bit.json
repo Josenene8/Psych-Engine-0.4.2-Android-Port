@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"disco",
+			"8bit",
+			[
+				86,
+				153,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "VS 8BIT",
+	"weekName": "Mad virus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
