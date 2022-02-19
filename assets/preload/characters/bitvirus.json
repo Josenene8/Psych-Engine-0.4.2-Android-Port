@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "8bit idle"
+		},
+		{
+			"offsets": [
+				-8,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Infection_Right"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Infection_down"
+		},
+		{
+			"offsets": [
+				1,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Infection_up"
+		},
+		{
+			"offsets": [
+				38,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Infection_left"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPMISS",
+			"loop": false,
+			"name": "8bit up miss"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTMISS",
+			"loop": false,
+			"name": "8bit right miss"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTMISS",
+			"loop": false,
+			"name": "8bit left miss"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNMISS",
+			"loop": false,
+			"name": "8bit down miss"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Infection bit",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "8bit",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		240,
+		255
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

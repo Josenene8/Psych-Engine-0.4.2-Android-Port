@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "Trembling",
+			"fps": 24,
+			"name": "fakebit Trembling",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "fail",
+			"fps": 24,
+			"name": "fakebit fall",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "Virus",
+			"fps": 24,
+			"name": "incoming virus",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "THE VIRUS",
+			"fps": 24,
+			"name": "the virus",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fakebit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fakebit up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fakebit right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fakebit left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fakebit down note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "FALL",
+			"loop": true,
+			"name": "fakebit fail"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/fakebit",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "8bit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		110,
+		111
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}
