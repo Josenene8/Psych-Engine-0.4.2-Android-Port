@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "forest",
+		"player1": "bfclown",
+		"player2": "clown",
+		"player3": null,
+		"events": [
+			[
+				80438.5964912281,
+				[
+					[
+						"Image Event",
+						"i1",
+						"3"
+					]
+				]
+			],
+			[
+				80614.0350877194,
+				[
+					[
+						"Image Event",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80789.4736842106,
+				[
+					[
+						"Image Event",
+						"i2",
+						"3"
+					]
+				]
+			],
+			[
+				81140.3508771931,
+				[
+					[
+						"Image Event",
+						"i3",
+						"3"
+					]
+				]
+			],
+			[
+				81491.2280701755,
+				[
+					[
+						"Image Event",
+						"i4",
+						"3"
+					]
+				]
+			],
+			[
+				81842.105263158,
+				[
+					[
+						"Image Event",
+						"i5",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 171,
+		"arrowSkin": "c",
+		"needsVoices": true,
+		"song": "Paedophobia"
+	}
+}
