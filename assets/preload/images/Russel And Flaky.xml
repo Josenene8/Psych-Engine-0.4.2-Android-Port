@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Russel And Flaky.png"><SubTexture name="Russel And Flaky bop0000" x="0" y="0" width="1605" height="1080" frameX="-204" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0001" x="3210" y="1080" width="1520" height="1002" frameX="-204" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0002" x="3246" y="2160" width="1520" height="1002" frameX="-204" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0003" x="1605" y="0" width="1605" height="1080" frameX="-204" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0004" x="0" y="1080" width="1605" height="1080" frameX="-204" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0005" x="3236" y="3240" width="1520" height="1002" frameX="-204" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0006" x="1605" y="1080" width="1605" height="1080" frameX="-204" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0007" x="3210" y="0" width="1605" height="1080" frameX="-204" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0008" x="0" y="2160" width="1623" height="1080" frameX="-186" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0009" x="1623" y="2160" width="1623" height="1080" frameX="-186" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0010" x="0" y="3240" width="1627" height="1080" frameX="-182" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Russel And Flaky bop0011" x="1627" y="3240" width="1609" height="1080" frameX="-200" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
