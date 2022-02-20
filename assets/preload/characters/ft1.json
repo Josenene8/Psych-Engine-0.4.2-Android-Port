@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "FirstIDLE"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "FirstRIGHT"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "FirstUP"
+		},
+		{
+			"offsets": [
+				0,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "FirstDOWN"
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "FirstLEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FirstTrollge1",
+	"position": [
+		-50,
+		100
+	],
+	"healthicon": "ok",
+	"flip_x": false,
+	"healthbar_colors": [
+		139,
+		139,
+		139
+	],
+	"camera_position": [
+		-50,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
