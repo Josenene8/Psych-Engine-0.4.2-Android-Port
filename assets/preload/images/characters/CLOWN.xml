@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mom_dad_christmas_asset.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CLOWN IDLE0000" x="0" y="0" width="873" height="777" frameX="-6" frameY="-5" frameWidth="884" frameHeight="782"/>
+	<SubTexture name="CLOWN LEFT0000" x="883" y="0" width="876" height="760" frameX="0" frameY="-22" frameWidth="884" frameHeight="782"/>
+	<SubTexture name="CLOWN RIGHT0000" x="1769" y="0" width="877" height="766" frameX="-5" frameY="-16" frameWidth="884" frameHeight="782"/>
+	<SubTexture name="CLOWN UP0000" x="2656" y="0" width="866" height="777" frameX="-18" frameY="-5" frameWidth="884" frameHeight="782"/>
+	<SubTexture name="CLOWN DOWN0000" x="3532" y="0" width="865" height="781" frameX="-19" frameY="-1" frameWidth="884" frameHeight="782"/>
+</TextureAtlas>
