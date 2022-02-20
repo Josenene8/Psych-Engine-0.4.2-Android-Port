@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Flippy.png"><SubTexture name="Flippy Idle0000" x="0" y="0" width="951" height="1080" frameX="-612" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0001" x="951" y="0" width="951" height="1080" frameX="-612" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0002" x="1902" y="0" width="951" height="1080" frameX="-612" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0003" x="0" y="1080" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0004" x="947" y="1080" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0005" x="1894" y="1080" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0006" x="2853" y="0" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0007" x="2853" y="1080" width="903" height="1080" frameX="-660" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0008" x="0" y="2160" width="891" height="1080" frameX="-672" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0009" x="891" y="2160" width="891" height="1080" frameX="-672" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0010" x="1782" y="2160" width="879" height="1080" frameX="-684" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0011" x="2661" y="2160" width="879" height="1080" frameX="-684" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0012" x="3800" y="0" width="919" height="1080" frameX="-644" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0013" x="0" y="3240" width="943" height="1080" frameX="-620" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0014" x="943" y="3240" width="943" height="1080" frameX="-620" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0015" x="1886" y="3240" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0016" x="2833" y="3240" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0017" x="4719" y="0" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0018" x="4719" y="1080" width="947" height="1080" frameX="-616" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0019" x="0" y="4320" width="999" height="1080" frameX="-564" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0020" x="999" y="4320" width="1003" height="1080" frameX="-560" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0021" x="2002" y="4320" width="1003" height="1080" frameX="-560" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Idle0022" x="3005" y="4320" width="985" height="1080" frameX="-578" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Down0000" x="3990" y="4320" width="973" height="1080" frameX="-590" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Down0001" x="5666" y="0" width="973" height="1080" frameX="-590" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Down0002" x="5666" y="1080" width="973" height="1080" frameX="-590" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Down0003" x="5666" y="2160" width="943" height="1080" frameX="-620" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Down0004" x="5666" y="3240" width="933" height="1080" frameX="-630" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0000" x="6639" y="2160" width="662" height="824" frameX="-468" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0001" x="0" y="5400" width="1095" height="1080" frameX="-468" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0002" x="1095" y="5400" width="1095" height="1080" frameX="-468" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0003" x="6639" y="2984" width="683" height="824" frameX="-484" frameY="-152" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0004" x="2190" y="5400" width="1073" height="1080" frameX="-490" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Left0005" x="3263" y="5400" width="1073" height="1080" frameX="-490" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Right0000" x="5666" y="4320" width="911" height="1080" frameX="-652" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Right0001" x="4719" y="2160" width="911" height="1080" frameX="-652" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Right0002" x="4719" y="3240" width="911" height="1080" frameX="-652" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Right0003" x="3800" y="1080" width="905" height="1080" frameX="-658" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Right0004" x="3800" y="2160" width="905" height="1080" frameX="-658" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Up0000" x="4336" y="5400" width="989" height="1080" frameX="-574" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Up0001" x="5325" y="5400" width="989" height="1080" frameX="-574" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Up0002" x="6639" y="0" width="989" height="1080" frameX="-574" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Flippy Up0003" x="6639" y="1080" width="987" height="1080" frameX="-576" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

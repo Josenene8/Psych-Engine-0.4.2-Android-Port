@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fliqpy.png"><SubTexture name="Fliqpy Idle0000" x="4718" y="2160" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0001" x="4718" y="2730" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0002" x="4718" y="3300" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0003" x="2694" y="2160" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0004" x="3863" y="3240" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0005" x="0" y="0" width="1090" height="1080" frameX="-564" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0006" x="4028" y="4320" width="738" height="570" frameX="-564" frameY="-336" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0007" x="5644" y="0" width="750" height="565" frameX="-556" frameY="-341" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0008" x="1090" y="0" width="1104" height="1080" frameX="-550" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0009" x="0" y="1080" width="1104" height="1080" frameX="-550" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0010" x="4028" y="4890" width="776" height="497" frameX="-550" frameY="-407" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0011" x="3863" y="3810" width="772" height="505" frameX="-552" frameY="-399" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0012" x="2694" y="2730" width="772" height="506" frameX="-552" frameY="-398" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0013" x="0" y="5400" width="768" height="520" frameX="-554" frameY="-384" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0014" x="768" y="5400" width="768" height="520" frameX="-554" frameY="-384" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Idle0015" x="4766" y="4320" width="752" height="566" frameX="-556" frameY="-340" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0000" x="2194" y="0" width="1388" height="1080" frameX="-266" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0001" x="2194" y="1080" width="898" height="1080" frameX="-756" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0002" x="1104" y="1080" width="898" height="1080" frameX="-756" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0003" x="0" y="2160" width="898" height="1080" frameX="-756" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0004" x="898" y="2160" width="898" height="1080" frameX="-756" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Down0005" x="1796" y="2160" width="898" height="1080" frameX="-756" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Left0000" x="3582" y="0" width="1136" height="1080" frameX="-518" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Left0001" x="3582" y="1080" width="1136" height="1080" frameX="-518" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Left0002" x="3582" y="2160" width="1136" height="1080" frameX="-518" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Left0003" x="0" y="3240" width="1094" height="1080" frameX="-560" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Right0000" x="1094" y="3240" width="922" height="1080" frameX="-732" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Right0001" x="2016" y="3240" width="923" height="1080" frameX="-731" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Right0002" x="2939" y="3240" width="924" height="1080" frameX="-730" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Right0003" x="4718" y="0" width="926" height="1080" frameX="-728" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Right0004" x="4718" y="1080" width="924" height="1080" frameX="-730" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Up0000" x="0" y="4320" width="1006" height="1080" frameX="-648" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Up0001" x="1006" y="4320" width="1006" height="1080" frameX="-648" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Up0002" x="2012" y="4320" width="1006" height="1080" frameX="-648" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Fliqpy Up0003" x="3018" y="4320" width="1010" height="1080" frameX="-644" frameY="0" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
