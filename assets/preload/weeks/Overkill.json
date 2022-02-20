@@ -1,0 +1,26 @@
+{
+	"storyName": "Overkill",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Week6",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Overkill",
+			"fliqpy",
+			[
+				215,
+				255,
+				167
+			]
+		]
+	],
+	"weekName": "Flippy"
+}

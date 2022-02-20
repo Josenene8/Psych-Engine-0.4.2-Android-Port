@@ -1,0 +1,35 @@
+{
+	"storyName": "Flippy HTF Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Week6",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Salute",
+			"flippy",
+			[
+				215,
+				255,
+				167
+			]
+		],
+		[
+			"Mortar",
+			"flippy",
+			[
+				215,
+				255,
+				167
+			]
+		]
+	],
+	"weekName": "Flippy"
+}
