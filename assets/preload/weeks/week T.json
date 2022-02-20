@@ -1,0 +1,31 @@
+{
+	"songs": [
+		["Sadness", "sadT", [145, 145, 145]],
+		["Rage", "sadT", [145, 145, 145]],
+		["Incident", "trollge", [145, 145, 145]],
+		["Redemption", "Tsad", [145, 145, 145]],
+		["pteromerhanophobia", "troll", [145, 145, 145]],
+		["paedophobia", "clown", [145, 145, 145]],
+		["technophobia", "trollsmiler", [145, 145, 145]],
+		["glossophobia", "trollpian", [145, 145, 145]],
+		["dystychiphobia", "derp", [145, 145, 145]],
+		["thanatophobia", "gftroll", [145, 145, 145]],
+		["athazagoraphobia", "tres", [145, 145, 145]],
+		["mydearlove", "gfcool", [145, 145, 145]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "V2",
+
+	"storyName": "Trollge Case 023",
+	"weekBefore": "tutorial",
+	"weekName": "Week T",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
