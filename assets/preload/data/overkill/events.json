@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "HTFunkersStage",
+		"player1": "BFCuddles",
+		"player2": "flippy",
+		"player3": null,
+		"events": [
+			[
+		         0,
+				[
+					[
+						"Image Flash",
+						"blackvignette",
+						"129"
+						  ]
+						]
+					],
+					[
+				131946,
+					[
+					   [
+						"Image Flash",
+						"blackscreen",
+						"5.5"
+						  ]
+						]
+					],
+		 [
+			137142,
+                [
+					[
+						"Image Flash",
+						"redvignette",
+						"100"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "GFGiggles",
+		"bpm": 280,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Overkill"
+	}
+}
