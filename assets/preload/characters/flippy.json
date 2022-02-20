@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Flippy Idle"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Flippy Left"
+		},
+		{
+			"offsets": [
+				6,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Flippy Up"
+		},
+		{
+			"offsets": [
+				6,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Flippy Down"
+		},
+		{
+			"offsets": [
+				7,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Flippy Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flippy",
+	"position": [
+		-610,
+		-60
+	],
+	"healthicon": "flippy",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		255,
+		80
+	],
+	"camera_position": [
+		380,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
